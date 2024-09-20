@@ -11,7 +11,7 @@
 
 - Limita-se a quantidade de saques que o usuário pode realizar
 
-- Limite de saque 
+- Limite-se o valor de saque 
 
 - Extrato com toda a movimentação
 
